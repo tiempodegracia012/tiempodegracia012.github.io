@@ -1,0 +1,67 @@
+
+
+body{
+    background-color:#1c2833;
+}
+
+nav{
+    background-color: blue;
+    height: 80px;
+}
+
+.lo{
+    background-color:#aeb6bf;    
+}
+
+.titulo{
+  font-family: "Gruppo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.container{
+width: 80%;
+max-width: 1000px;
+margin-left: 10%;
+overflow: hidden;
+
+
+}
+
+.container2{
+width: 100%;
+max-width: 1000px;
+margin-left: 0%;
+overflow: hidden;
+
+
+}
+
+main{
+    width: 70%;
+
+}
+h2, h5{
+    color: white;
+ font-family: "Marmelad", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+}
+
+
+.img1{
+
+    border-star-
+    padding-left: 0%|;
+    float: center;
+
+    opacity: 1;
+}
+
+button{
+    background-color: red;
+}
+.espacio{
+    height: 20%;
+}
